@@ -1,3 +1,5 @@
-﻿Hello
-Some content
-and hear
+﻿Какие языки программирования бывают.
+JVM, JRE, JDK
+Области памяти в java
+Class Loaders. Виды, для чего нужны
+Объект класса Class
